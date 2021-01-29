@@ -1,3 +1,3 @@
 # display image
 
-![alt hari](hari.jpg)
+(hari.jpg)
