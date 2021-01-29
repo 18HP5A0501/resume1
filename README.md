@@ -1,3 +1,3 @@
 # display image
 
-(hari.jpg)
+!(hari.jpg)
