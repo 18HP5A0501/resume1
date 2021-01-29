@@ -1,2 +1,3 @@
 # display image 
-![alt download(2)]download(2).jpg
+
+file:///C:/Users/aliet/Desktop/download%20(2).jpg
